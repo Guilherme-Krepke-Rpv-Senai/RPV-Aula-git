@@ -1,3 +1,4 @@
 gui krepke
 daniel
+novo aluno 1
 novo aluno2
